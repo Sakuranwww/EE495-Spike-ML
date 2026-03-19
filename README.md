@@ -64,4 +64,4 @@ The model supports incremental learning and can be updated when new spike classe
 ## Presentation video
 
 Link:
-https://docs.google.com/presentation/d/1stI0OSZP8kjo3vhBuuX4afTxFNyo4qBn/edit?usp=share_link&ouid=114509514834407904065&rtpof=true&sd=true
+https://drive.google.com/file/d/1HerykRPPgPQccH2QsNsD0j7vFPwy0KlZ/view?usp=share_link
