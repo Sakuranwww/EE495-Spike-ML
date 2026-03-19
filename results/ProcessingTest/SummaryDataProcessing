@@ -1,0 +1,40 @@
+
+
+------------SUMMARY of DATA QUALITY CHECK--------------
+
+This file summarizes:
+data_good/20250907_0708B_C207D_S_185D_250907_141840.rhd;
+
+
+total recording time = 0.465650 s
+240 channels recorded in total
+9314 data points for each channel
+sampling rate is 31
+
+desired/actual lower bandwidth: 0.10000000149011612 Hz, 0.10000000149011612 Hz
+desired/actual upper bandwidth: 3000.0 Hz, 3000.0 Hz
+manually erased noisy channels:
+[]
+manually normallized noisy channels:
+[]
+manually specify processing time range: between 0 s and 10000 s
+The processing settings are as below:
+
+Filter Order:               3
+Low Cutoff Frequency:       250
+High Cutoff Frequency:      3000
+
+Times of RMS as Thresholdr: 5
+Gap between Peaks must be Larger than: 30 ms
+min_peak_quantity:          30
+peak_amplitude_limit:       150
+
+peak_width (duration of each segment): 0.003000
+
+n_neighbors (for UMAP):     15
+mid_dist (for UMAP):        0.100000
+n_components (for UMAP):    2
+
+eps (for DBSCAN):           0.500000
+min_sample (for DBSCAN):    5
+
